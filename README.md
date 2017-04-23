@@ -1,6 +1,6 @@
 # EGU 2017: Data analysis with Python and Jupyter
 
-During the [EGU 2017]() we presented a short course introducing how to do data
+During the [EGU 2017](http://egu2017.eu) we presented a short course introducing how to do data
 science with Python and Jupyter. This is the material used in the course. The
 course itself was 90 minutes. However, there is a bit more material that can
 also be used for self-study and for finding references that go more in-depth.
