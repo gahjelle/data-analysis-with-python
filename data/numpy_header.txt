@@ -1,0 +1,19 @@
+Simplified dataset based on Ocean Pole Load Tide Deformation Parameters
+from Self-Consistent Equilibrium Model of Ocean Pole Tide (Desai, 2002)
+Number_longitude_Grid_Points =         2
+First_longitude_degrees      =      0.25
+Last_longitude_degrees       =    180.25
+Longitude_step_degrees       =     180.0
+Number_latitude_grid_points  =         3
+First_latitude_degrees       =    -89.75
+Last_latitude_degrees        =     89.75
+Latitude_step_degrees        =      90.0
+Longitude   Latitude   u_r^R       u_r^I       u_n^R       u_n^I       u_e^R       u_e^I    
+(degrees)  (degrees)  (        )  (        )  (        )  (        )  (        )  (        )
+---------  ---------  ----------  ----------  ----------  ----------  ----------  ----------
+     0.25     -89.75    0.022015    0.040741   -0.021861   -0.029058   -0.025845   -0.055643
+   180.25     -89.75    0.025000    0.041008    0.021540    0.028705    0.025741    0.055648
+     0.25       0.25   -0.045473   -0.013363   -0.029142   -0.034187   -0.026165   -0.070089
+   180.25       0.25    0.028523    0.039553   -0.002982   -0.035883    0.024974    0.071998
+     0.25      89.75   -0.010242   -0.028406    0.042345        -999   -0.025851   -0.070016
+   180.25      89.75   -0.013632   -0.028131   -0.042647   -0.029206    0.025918    0.070023
