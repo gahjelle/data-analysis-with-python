@@ -21,10 +21,10 @@ explained in [Notebook 2: Jupyter Notebooks](02_jupyter_notebooks.ipynb).
 
 This short course is not a course in Python, the programming language. Instead
 we aim to show you how Python has become a full-blown platform for doing data
-science. BLAH BLAH
+science.
 
-+ [Anaconda](01_anaconda.ipynb)
-+ [Jupyter Notebooks](02_jupyter_notebooks.ipynb)
+The following short lessons are available:
+
 + [Reading files](03_reading_files.ipynb)
 + [Working with JSON-data](04_working_with_json.ipynb)
 + [Numerical data in numpy](05_numerical_data_in_numpy.ipynb)
@@ -32,5 +32,4 @@ science. BLAH BLAH
 + [Plotting data](07_plotting_data.ipynb)
 + [Storing data](08_storing_data.ipynb)
 + [Distributing Jupyter notebooks](09_distributing_jupyter_notebooks.ipynb)
-+ [Further resources](10_further_resources.ipynb)
 
