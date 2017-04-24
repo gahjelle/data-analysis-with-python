@@ -61,5 +61,5 @@ This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 If you want to reuse this material, feel free to [fork](#fork-destination-box) it. If you find any
-errors or have suggestions for improvements raising an [issue](issues/) or sending a
-[pull request](pulls/) would be very welcome. Thank you for your interest.
+errors or have suggestions for improvements raising an [issue](../../issues/) or sending a
+[pull request](../../pulls/) would be very welcome. Thank you for your interest.
