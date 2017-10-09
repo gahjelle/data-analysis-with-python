@@ -40,9 +40,10 @@ The following short lessons are available:
 + [Numerical data in numpy](05_numerical_data_in_numpy.ipynb)
 + [Pandas and time series](06_pandas_and_time_series.ipynb)
 + [Plotting data](07_plotting_data.ipynb)
-+ [Storing data](08_storing_data.ipynb)
-+ [Distributing Jupyter notebooks](09_distributing_jupyter_notebooks.ipynb)
-+ [Further resources](10_further_resources.ipynb)
++ [Geospatial data](08_geospatial_data.ipynb)
++ [Space-geodetic data](09_space_geodetic_data.ipynb)
++ [Distributing Jupyter notebooks](10_distributing_jupyter_notebooks.ipynb)
++ [Further resources](11_further_resources.ipynb)
 
 ## Downloading the material
 
