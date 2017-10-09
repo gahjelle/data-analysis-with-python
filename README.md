@@ -1,10 +1,17 @@
-# EGU 2017: Data analysis with Python and Jupyter
+# Data analysis with Python and Jupyter
 
-During the [EGU 2017](http://egu2017.eu) we presented a short course introducing
-how to do data science with Python and Jupyter. This is the material used in the
-course. The course itself was 90 minutes. However, there is a bit more material
-that can also be used for self-study and for finding references that go more
-in-depth.
+This is material used for doing a course introducing how to do data science with
+Python and Jupyter. The material has been presented at several occasions, and
+will be expanded on whenever I have the time or need (but please feel free to
+contribute if you are interested, see [License](#license) below).
+
+So far I have given courses at
+
++ [EGU 2017 -- Wien, Austria, April 24th 2017](releases/tag/201704_egu)
++ [Kartverket -- Oslo, Norway, October 11th 2017](releases/tag/201710_nma)
+
+The links are to tags showing the material as it was at the time of the
+presentation.
 
 ## Preparation
 
@@ -60,6 +67,7 @@ files to see the content.
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-If you want to reuse this material, feel free to [fork](#fork-destination-box) it. If you find any
-errors or have suggestions for improvements raising an [issue](../../issues/) or sending a
-[pull request](../../pulls/) would be very welcome. Thank you for your interest.
+If you want to reuse this material, feel free to [fork](#fork-destination-box)
+it. If you find any errors or have suggestions for improvements raising an
+[issue](../../issues/) or sending a [pull request](../../pulls/) would be very
+welcome. Thank you for your interest.
