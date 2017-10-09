@@ -7,8 +7,8 @@ contribute if you are interested, see [License](#license) below).
 
 So far I have given courses at
 
-+ [EGU 2017 -- Wien, Austria, April 24th 2017](releases/tag/201704_egu)
-+ [Kartverket -- Oslo, Norway, October 11th 2017](releases/tag/201710_nma)
++ [EGU 2017 -- Wien, Austria, April 24th 2017](../../releases/tag/201704_egu)
++ [Kartverket -- Oslo, Norway, October 11th 2017](../../releases/tag/201710_nma)
 
 The links are to tags showing the material as it was at the time of the
 presentation.
