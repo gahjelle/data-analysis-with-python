@@ -35,8 +35,8 @@ The following short lessons are available:
 
 + [Anaconda](01_anaconda.ipynb)
 + [Jupyter Notebooks](02_jupyter_notebooks.ipynb)
-+ [Reading files](03_reading_files.ipynb)
-+ [Working with JSON-data](04_working_with_json.ipynb)
++ [Working with JSON-data](03_working_with_json.ipynb)
++ [Reading files](04_reading_files.ipynb)
 + [Numerical data in numpy](05_numerical_data_in_numpy.ipynb)
 + [Pandas and time series](06_pandas_and_time_series.ipynb)
 + [Plotting data](07_plotting_data.ipynb)
